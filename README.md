@@ -1,5 +1,6 @@
-<h1 align="center">Hi,  I'm Manee ⋅°❀⋆.ೃ࿔*:･</h1>
-<h3 align="left">lol </h3>
+# Hi,  I'm Manee ⋅°❀⋆.ೃ࿔*:･
+<h3 align="left">coding for fun </h3>
+
 <p align="left">
 </p>
 
