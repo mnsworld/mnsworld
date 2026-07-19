@@ -1,5 +1,5 @@
 # Hi,  I'm Manee ⋅°❀⋆.ೃ࿔*:･
-<h3 align="left">coding for fun </h3>
+<h3 align="left">coding is fun </h3>
 
 <p align="left">
 </p>
